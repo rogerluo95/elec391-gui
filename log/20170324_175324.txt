@@ -1,0 +1,292 @@
+0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 2 
+ 4 484 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan 0.50 0.50 nan nan 5 0 12 12 0.00 nan nan nan nan nan 
+ 4 475 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 454 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 454 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 436 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 436 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 422 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 419 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 411 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 403 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 403 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 391 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 394 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 381 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 387 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 372 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 375 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 367 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 366 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 363 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 359 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 361 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 353 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 359 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 348 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 355 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 344 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 348 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 343 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 344 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 342 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 337 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 343 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 334 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 341 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 332 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 339 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 331 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 334 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 332 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 331 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 333 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 327 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 334 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 326 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 334 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 324 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 333 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 325 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 328 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 326 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 325 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 329 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 324 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 329 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 321 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 330 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 323 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 327 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 322 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 326 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 324 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 322 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 329 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 320 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 330 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 319 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 328 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 319 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 324 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 321 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 321 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 4 324 0 0 -0.14 0.14 -14.00 14.00 0.00 nan 0.00 nan nan nan nan nan 5 5 12 12 0.00 nan nan nan nan nan 
+ 
